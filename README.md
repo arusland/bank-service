@@ -1,4 +1,4 @@
-# Bank Service Demo
+# Bank Service Api Demo
 
 **Note: Java 8 or higher is required**
 
