@@ -10,6 +10,9 @@ mvn clean package
 ## Run 
 ```bash
 java -jar target/bank-service.jar
+
+# or use another port
+java -Dserver.port=8585 -jar target/bank-service.jar
 ```
 
 ## Sample
